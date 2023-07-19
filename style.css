@@ -8,3 +8,20 @@ Photo by Filipp Romanovski: https://www.pexels.com/photo/palm-trees-between-buil
 Photo by Lorena Villarreal: https://www.pexels.com/photo/moulin-rouge-in-paris-16646223/
 Photo by Matteo Milan: https://www.pexels.com/photo/the-courtyard-of-the-sheikh-zayed-grand-mosque-in-abu-dhabi-united-arab-emirates-15740547/
 */
+* {
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+body,
+html {
+    height: 100%;
+    width: auto;
+    display: block;
+}
+/*section one*/
+.section-home {
+    border: 2px solid red;
+    height: 500px;
+    padding: 10px;
+}
